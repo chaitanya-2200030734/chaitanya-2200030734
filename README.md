@@ -5,7 +5,7 @@
 🌱 Currently learning **Data Structures and Algorithms (DSA)**<br><br>
 💬 Ask me anything about **Python**<br><br>
 📫 Reach out to me at: **chaitanyagajjarapu05@gmail.com**<br><br>
-⚡ **Fun fact:** I use ChatGPT like a pro—because coding with a sidekick is just smarter 😎
+⚡ **Fun fact:** I use ChatGPT like a pro—because coding with a sidekick is just smarter😎
 
 
 
