@@ -15,7 +15,7 @@
     <li>🌱 I’m currently learning DSA</li>
     <li>💬 Ask me about Python..</li>
     <li>📫 How to reach me: <a href="mailto:chaitanyagajjarapu05@gmail.com">chaitanyagajjarapu05@gmail.com</a></li>
-    <li>⚡ Fun fact: I use ChatGPT like a pro—because coding with a sidekick is just smarter 😎</li>
+    <li>⚡ Fun fact: I use ChatGPT like a pro—because coding with a sidekick is just smarter</li>
   </ul>
 </div>
 
