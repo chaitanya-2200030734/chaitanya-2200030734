@@ -10,7 +10,7 @@
 </p>
 
 ## 🚀 Currently Working On:
-- Building My Portfolio Website 🚀
+- Building a Full Stack Project 🚀
 - Learning and Mastering DSA 🧠
 
 
